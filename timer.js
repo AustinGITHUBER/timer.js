@@ -1,3 +1,6 @@
+/*
+! timer.js © 2022 by AustinGITHUBER is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ 
+*/
 // uses strict mode
 'use strict'
 // gets seconds portion of time
