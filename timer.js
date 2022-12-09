@@ -82,6 +82,8 @@ var timerStart = (time24hr = '00:00:00', audioSrc = 'https://raw.githubuserconte
 var timer = () => {
     // refreshes html
     refreshHTML()
+    // sets title to Timer
+    document.title = 'Timer'
     // creates document fragment
     let fragment = document.createDocumentFragment()
     // appends div onto fragment
